@@ -100,4 +100,5 @@ main .com-imagem p {
 footer {
     /*Ele parece ter deixado o footer com tamanhos fixos, vou deixar também.*/
     padding: 10px;
+    line-height: 1.3em;
 }
